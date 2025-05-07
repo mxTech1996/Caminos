@@ -34,7 +34,7 @@ export default function FreightConsultingIntro() {
           </h2>
           <p className='text-[#4B5563] mb-4'>
             Our team provides specialized consulting for local freight
-            businesses. Whether you're transporting cargo across urban,
+            businesses. Whether you&apos;re transporting cargo across urban,
             suburban, or industrial areas, we offer strategies to improve
             delivery accuracy, route efficiency, and vehicle management.
           </p>
